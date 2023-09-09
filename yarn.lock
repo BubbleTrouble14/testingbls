@@ -5703,6 +5703,10 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
+"react-native-bls-signatures@https://github.com/BubbleTrouble14/react-native-bls-signatures":
+  version "0.3.1"
+  resolved "https://github.com/BubbleTrouble14/react-native-bls-signatures#25aa0461366c9f63c566408bb3ae57dc606227db"
+
 react-native@0.72.4:
   version "0.72.4"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.72.4.tgz#97b57e22e4d7657eaf4d1f62a678511fcf9bdda7"
